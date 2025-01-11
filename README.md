@@ -14,7 +14,6 @@ En mi experiencia como desarrollador web he utilizado tecnologías de diseño de
 - **Backend:**  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 - **Bases de Datos:**  
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=flat-square)  
